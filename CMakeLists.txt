@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.11.3)
 
 set(CMAKE_CXX_STANDARD 17)
+set(wxWidgets_ROOT_DIR "/usr/local/Cellar/wxmac/3.0.4_2")
+set(wxWidgets_LIB_DIR "/usr/local/Cellar/wxmac/3.0.4_2/lib")
 
 project(Membot)
 
