@@ -41,6 +41,8 @@ vector
 -
 string
 -
+memory
+-
 chatgui.h
 /Users/mathengineer/Dropbox/Udacity Cpp/CppND-Memory-Management-Chatbot/src/chatgui.h
 
